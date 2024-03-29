@@ -1,0 +1,12 @@
+.Button{
+    border-radius: 12px;
+        padding: 16px ;
+        width: 438px;
+        height: 60px;
+        background: #f4c550;
+        font-family: var(--font-family);
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.56;
+            color: #121417;
+}
